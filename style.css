@@ -1,0 +1,30 @@
+body{
+    font-family: cursive;
+    color: whitesmoke;
+    background-image:url("background.jpg");
+
+}
+.hi{
+    background-color: #060D29;
+    box-shadow: 5px 5px wheat;
+}
+#id{
+    width: 200px;
+}
+#id1{
+    width: 200px;
+    
+}
+#play{
+    float: right;
+    margin-bottom: 400px;
+}
+#it{
+float: left;
+}
+#if{
+    background-color: palevioletred;
+}
+canvas{
+    border: 5px dotted darkmagenta;
+}
